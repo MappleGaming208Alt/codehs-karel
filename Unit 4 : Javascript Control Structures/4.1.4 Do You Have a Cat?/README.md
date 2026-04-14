@@ -1,4 +1,3 @@
-Here is a formatted **README.md** designed for quick copying. It places the code block right at the top for easy access, followed by the project details.
 
 ***
 
