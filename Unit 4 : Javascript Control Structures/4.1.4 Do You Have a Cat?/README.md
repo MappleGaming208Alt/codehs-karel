@@ -1,7 +1,7 @@
 
 ***
 
-```markdown
+
 # 4.1.4: Have a Cat - Code & Documentation
 
 ## 📋 Copy Code Below
